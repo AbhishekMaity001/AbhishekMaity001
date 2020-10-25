@@ -3,7 +3,7 @@
 <!--
 **AbhishekMaity001/AbhishekMaity001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🤔 I’m looking for help with - 💬 Ask me about ... ...-->
+-->
 
 <img align='right' src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-flat-illustration-of-a-man-working-on-the-computer-png-image_3562999.jpg" width="210">
 
