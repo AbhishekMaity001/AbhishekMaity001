@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
----
+
 ## Connect me on :
 - [LinkedIn](https://www.linkedin.com/in/abhishek-maity-a3923716a/ "Abhishek Maity LinkedIn")
 - [Kaggle](https://www.kaggle.com/abhishekmaity007 "Abhishek Maity Kaggle")
