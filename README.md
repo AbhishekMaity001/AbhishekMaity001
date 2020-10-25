@@ -42,3 +42,8 @@ Here are some ideas to get you started:
 - [Kaggle](https://www.kaggle.com/abhishekmaity007 "Abhishek Maity Kaggle")
 - [Gmail](https://mail.google.com/) - abhishek.maity97@gmail.com
 
+```
+Keep Smiling and Work Harder!!😀
+```
+
+
