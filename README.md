@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Machine Learning** & **Deep Learning** from various online resources. 
 - 🤝🏻 I'm open for collaborations on [Kaggle](https://www.kaggle.com/abhishekmaity007 "Kaggle.com"), **Data Science** and **Machine Learning** domains.
 - 💻 I'm looking for opportunities in **Data Science** Field.
-- 🎯 Goal (2020): Contribute openly to **Data Science** community.
+- 🎯 Goal (2021): Contribute openly to **Data Science** community.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I know it's crazy, but i Love to eat Chicken
 - 📌 Scroll down to view my **Pinned Repositories**
