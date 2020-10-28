@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📌 Scroll down to view my **Pinned Repositories**
 
 ## Connect me on :
----
+
 - [LinkedIn](https://www.linkedin.com/in/abhishek-maity-a3923716a/ "Abhishek Maity LinkedIn")
 - [Kaggle](https://www.kaggle.com/abhishekmaity007 "Abhishek Maity Kaggle")
 - [Gmail](https://mail.google.com/) - abhishek.maity97@gmail.com
