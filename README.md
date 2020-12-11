@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🎯 Goal (2021): Contribute openly to **Data Science** community.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I know it's crazy, but i Love to eat Chicken
-- 📌 Scroll down to view my **Pinned Repositories**
+- 📌 Scroll down to view my **Pinned Project Repositories**
 
 ## Connect me on :
 
