@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-flat-illustration-of-a-man-working-on-the-computer-png-image_3562999.jpg" width="210">
 
 - 🔭 I’m currently working as a **System Analyst** in US Healthcare domain.
-- 🌱 I’m currently learning **Machine Learning** & **Deep Learning** from various online resources. 
+- 🌱 I’m currently looking for new opportunities **Machine Learning** & **Deep Learning** field.(I am actively applying) 
 - 🤝🏻 I'm open for collaborations on [Kaggle](https://www.kaggle.com/abhishekmaity007 "Kaggle.com"), **Data Science** and **Machine Learning** domains.
 - 💻 I'm looking for opportunities in **Data Science** Field.
 - 🎯 Goal (2021): Contribute openly to **Data Science** community.
