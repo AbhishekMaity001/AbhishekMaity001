@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🎯 Goal (2021): Contribute openly to **Data Science** community and make some Attractive & intresting Projects in Deeplearning.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I know it's crazy, but i Love to eat Chicken 😉
-- 📌 Please Scroll down to view some of my **Pinned Project Repositories**
+- 📌 Please Scroll down to view some of my **Pinned Project Repositories**  👇
 
 ## Connect me on :
 
