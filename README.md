@@ -8,13 +8,12 @@ Here are some ideas to get you started:
 <img align='right' src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-flat-illustration-of-a-man-working-on-the-computer-png-image_3562999.jpg" width="210">
 
 - 🔭 I’m currently working as a **System Analyst** in US Healthcare domain.
-- 🌱 I’m currently looking for new opportunities **Machine Learning** & **Deep Learning** field.(I am actively applying) 
-- 🤝🏻 I'm open for collaborations on [Kaggle](https://www.kaggle.com/abhishekmaity007 "Kaggle.com"), **Data Science** and **Machine Learning** domains.
-- 💻 I'm looking for opportunities in **Data Science** Field.
-- 🎯 Goal (2021): Contribute openly to **Data Science** community.
+- 💻 I’m currently looking for new opportunities in **Machine Learning** | **Deep Learning** | **Data Science** field.(I am actively applying) 
+- 🤝🏻 I'm open for collaborations on any projects in **Data Science** (**Machine Learning** | **Computer Vision** | **Natural Language Processing** | **Audio Data**)
+- 🎯 Goal (2021): Contribute openly to **Data Science** community and make some Attractive & intresting Projects in Deeplearning.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I know it's crazy, but i Love to eat Chicken
-- 📌 Scroll down to view my **Pinned Project Repositories**
+- ⚡ Fun fact: I know it's crazy, but i Love to eat Chicken 😉
+- 📌 Please Scroll down to view some of my **Pinned Project Repositories**
 
 ## Connect me on :
 
