@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools :
 <img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Scikit Learn" width="60px" src="https://github.com/scikit-learn/scikit-learn/raw/master/doc/logos/scikit-learn-logo.png" />
+<img align="left" alt="Scikit Learn" width="60px" src="https://raw.githubusercontent.com/facebookresearch/detectron2/ea8b17914fc9a5b7d82a46ccc72e7cf6272b40e4/.github/Detectron2-Logo-Horz.svg" />
 <img align="left" alt="Tensorflow" width="48px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
 <img align="left" alt="Keras" width="70px"src="https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/10/keras.png"/>
 <img align="left" alt="Flask" width="80px"src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png"/>
