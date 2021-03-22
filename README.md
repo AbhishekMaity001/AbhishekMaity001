@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-flat-illustration-of-a-man-working-on-the-computer-png-image_3562999.jpg" width="210">
 
-- 🔭 I’m currently working as a **System Analyst** in US Healthcare domain.
-- 💻 I’m currently looking for new opportunities in **Machine Learning** | **Deep Learning** | **Data Science** area.(I am actively applying)  | Project Intern at **ineuron.ai**, Bangalore
+- 🔭 I’m currently working as a **System Analyst** in US Healthcare domain & involved in creating POC's on Computer Vision(Object Detection) UseCases
+- 💻 I’m currently doing indepth research/exploring Detectron2 ( In Love with Detectron 2 ❤️ )
 - 🤝🏻 I'm open for collaborations on any projects in **Data Science** (**Machine Learning** | **Computer Vision** | **Natural Language Processing** | **OCR** | **Data Analysis**)
 - 🎯 Goal (2021): Contribute openly to **Data Science** community and make some Attractive & intresting Projects in Deeplearning.
 - 😄 Pronouns: He/His
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools :
 <img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Scikit Learn" width="60px" src="https://raw.githubusercontent.com/facebookresearch/detectron2/ea8b17914fc9a5b7d82a46ccc72e7cf6272b40e4/.github/Detectron2-Logo-Horz.svg" />
+<img align="left" alt="Detectron2" width="100px" src="https://raw.githubusercontent.com/facebookresearch/detectron2/ea8b17914fc9a5b7d82a46ccc72e7cf6272b40e4/.github/Detectron2-Logo-Horz.svg" />
 <img align="left" alt="Tensorflow" width="48px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
 <img align="left" alt="Keras" width="70px"src="https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/10/keras.png"/>
 <img align="left" alt="Flask" width="80px"src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png"/>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 ```
-Keep Smiling and Work Harder!!😀
+Fail Fast ... Learn Faster !!😀
 ```
 
 
