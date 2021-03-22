@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Connect me on :
 - [LinkedIn](https://www.linkedin.com/in/abhishek-maity-a3923716a/ "Abhishek Maity LinkedIn")
-- [Gmail](https://mail.google.com/) - abhishek.maity97@gmail.com
+- [G-Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=abhishek.maity97@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 ***
 
 ## Languages and Tools :
