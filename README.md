@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 <img align='right' src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-flat-illustration-of-a-man-working-on-the-computer-png-image_3562999.jpg" width="210">
 
 - 🔭 I’m currently working as a **System Analyst** in US Healthcare domain & involved in creating POC's on Computer Vision(Object Detection) UseCases
-- 💻 I’m currently doing indepth research/exploring Detectron2 ( In Love with Detectron 2 ❤️ )
+- 💻 I’m currently doing indepth research/exploring different Computer Vision Usecases using different SOTA Models ( In Love with Detectron 2 ❤️ )
 - 🤝🏻 I'm open for collaborations on any projects in **Data Science** (**Machine Learning** | **Computer Vision** | **Natural Language Processing** | **OCR** | **Data Analysis**)
-- 🎯 Goal (2021): Contribute openly to **Data Science** community and make some Attractive & intresting Projects in Deeplearning.
+- 🎯 Goal (2021): Contribute openly to **Data Science** community and make some Attractive & intresting Projects in Deeplearning (Computer Vision & NLP).
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I know it's crazy, but i Love to eat Chicken 😉
 - 📌 Please Scroll down to view some of my **Pinned Project Repositories**  👇
