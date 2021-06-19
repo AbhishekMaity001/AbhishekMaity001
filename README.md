@@ -1,16 +1,17 @@
 ## Hola, I'm Abhishek Maity! 👋
 
 <!--
-**AbhishekMaity001/AbhishekMaity001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AbhishekMaity001/AbhishekMaity001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.& involved in creating POC's on **Computer Vision(Object Detection) UseCases**
+I’m currently doing indepth research/exploring different Computer Vision Usecases using different SOTA Models and Frameworks. ( In Love with Detectron 2 ❤️ )
 Here are some ideas to get you started:
 -->
 
 <img align='right' src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-flat-illustration-of-a-man-working-on-the-computer-png-image_3562999.jpg" width="210">
 
-- 🔭 I’m currently working as a **System Analyst** in US Healthcare domain & involved in creating POC's on **Computer Vision(Object Detection) UseCases**
-- 💻 I’m currently doing indepth research/exploring different Computer Vision Usecases using different SOTA Models and Frameworks. ( In Love with Detectron 2 ❤️ )
+- 🔭 I’m currently working as a **Data Science Programmer** in Industrial IOT space ( mainly Oil & Gas Industries )  
+- 💻 Currently I am also Learning diffrent ways/techniques to deal with **Time Series** Data on real world Problems/Use Cases.
 - 🤝🏻 I'm open for collaborations on any projects in **Data Science** (**Machine Learning** | **Computer Vision** | **Natural Language Processing** | **OCR** | **Data Analysis**)
-- 🎯 Goal (2021): Contribute openly to **Data Science** community and make some Attractive & intresting Projects in Deeplearning (Computer Vision & NLP).
+- 🎯 Goal (2021): To Learn Some new skills and contribute to open source Data Science Community
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I know it's crazy, but i Love to eat Chicken 😉
 - 📌 Please Scroll down to view some of my **Pinned Project Repositories**  👇
