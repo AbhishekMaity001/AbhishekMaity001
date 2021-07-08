@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 
 ## Languages, Libraries and Frameworks used :
 <img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Flask" width="60px"src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png"/>
+
+<img align="left" alt="Flask" width="60px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" />
 <img align="left" alt="tf2" width="30px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
 <img align="left" alt="keras" width="70px" src="https://camo.githubusercontent.com/906e661107a3bc03104ca5d88336d1f4b0e80fdcac65efaf7904041d371c747f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67"/>
 <img align="left" alt="Detectron2" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM2RwKXC2YkEVLDshDBGhnhuzmlg3EkhOwg2dc2I3ScLJJdV2fzrJiZ4XqKcTeiSNngYY&usqp=CAU" />
@@ -45,6 +44,9 @@ Here are some ideas to get you started:
 <!--
 <summary>:zap: Most Used Languages</summary>
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekMaity001" />
+<img align="left" alt="React.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 -->
 ```
  Fail Fast ... Learn Faster !!😀
