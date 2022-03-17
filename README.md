@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💻 Currently I am also Learning diffrent ways/techniques to deal with **Time Series** Data on real world Problems/Use Cases(Anomaly Detection, Predictive Maintenance etc.).
 - 🤝🏻 I'm open for collaborations on any projects in **Data Science** (**Machine Learning** | **Computer Vision** | **Natural Language Processing** | **OCR** | **Data Analysis**).
 - Please click here to checkout more of my amazing Project use-cases solved for different Clients ✅ [Upwork Profile](https://www.upwork.com/freelancers/~012680dffc29d73afb)
-- 🎯 Goal (2022): Get some official Certifications related to Tensorflow & AWS Cloud.
+- 🎯 Goal (2022): Get some official Certifications related to Tensorflow & AWS Cloud
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I know it's crazy, but i Love to eat Chicken 😉
 - 📌 Please Scroll down to view some of my **Pinned Project Repositories**  👇
