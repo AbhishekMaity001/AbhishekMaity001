@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <img align="left" alt="SQL" width="40px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" />
 <img align="left" alt="Docker" width="50px" src="https://avatars.githubusercontent.com/u/11618900?v=4" />
 <img align="left" alt="Kubernetes" width="50px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo_with_border.svg" />
+<br />
 <img align="left" alt="PyCharm" width="50px" src="https://external-preview.redd.it/68RuLLrsBdxbVJLxm3py3YoK6zX0aPIv3qttEhkb0_4.jpg?auto=webp&s=e2c12b1dc5be819f2f076f46454912a3c4bc3f2d"/>
 
 
