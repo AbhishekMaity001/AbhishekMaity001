@@ -31,32 +31,37 @@ Here are some ideas to get you started:
 <br />
 
 
-## Languages, Libraries and Frameworks used :
+## Languages, Libraries and Frameworks hands on :
 <img align="left" alt="Python3" width="50px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" />
-<img align="left" alt="Docker" width="50px" src="https://avatars.githubusercontent.com/u/11618900?v=4" />
-<img align="left" alt="Kubernetes" width="50px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo_with_border.svg" />
-<img align="left" alt="Flask" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.15.0/icons/flask.svg" />
+<img align="left" alt="Pandas" width="40px" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" />
 <img align="left" alt="TF2" width="40px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
 <img align="left" alt="Keras" width="40px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg"/>
-<img align="left" alt="Detectron2" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM2RwKXC2YkEVLDshDBGhnhuzmlg3EkhOwg2dc2I3ScLJJdV2fzrJiZ4XqKcTeiSNngYY&usqp=CAU" />
+<img align="left" alt="Flask" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.15.0/icons/flask.svg" />
+<img align="left" alt="Django" width="40px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
+<img align="left" alt="Detectron2" width="130px" src="https://raw.githubusercontent.com/facebookresearch/detectron2/9258799e4e72786edd67940872e0ed2c4387aac5/.github/Detectron2-Logo-Horz.svg" />
 <img align="left" alt="YOLO" width="50px" src="https://i.pinimg.com/originals/c8/4c/d6/c84cd6231804a0759dce57bce4bef01a.png" />
+
+<img align="left" alt="SQL" width="40px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" />
+<img align="left" alt="Docker" width="50px" src="https://avatars.githubusercontent.com/u/11618900?v=4" />
+<img align="left" alt="Kubernetes" width="50px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo_with_border.svg" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="PyCharm" width="40px" src="https://external-preview.redd.it/68RuLLrsBdxbVJLxm3py3YoK6zX0aPIv3qttEhkb0_4.jpg?auto=webp&s=e2c12b1dc5be819f2f076f46454912a3c4bc3f2d"/>
+
+<!-- <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
 <img align="left" alt="Jupyter" width="40px" src="https://avatars1.githubusercontent.com/u/25869250?s=200&v=4" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+-->
 
 <br />
 <br />
 
 ***
-<!--
-<summary>:zap: Most Used Languages</summary>
+
+<!-- <summary>:zap: Most Used Languages</summary>
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekMaity001" />
 <img align="left" alt="React.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
--->
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> -->
+
 ```
  Fail Fast ... Learn Faster !!😀
 ```
