@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I know it's crazy, but i Love to eat Chicken 😉
 - 📌 Please Scroll down to view some of my **Pinned Project Repositories**  👇
 
-## Connect me on :
+## Click to Connect me on :
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" />][linkedin]
 [<img align="left" alt="Gmail" width="40px" src="https://camo.githubusercontent.com/3519e704bfa3608c44bb981d63331e5163bd0a3bf0ab5fbfbda3a51ada1586a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f676d61696c2e706e67" />][gmail]
