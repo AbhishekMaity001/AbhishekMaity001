@@ -18,18 +18,26 @@ Here are some ideas to get you started:
 - 📌 Please Scroll down to view some of my **Pinned Project Repositories**  👇
 
 ## Connect me on :
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+[<img align="left" alt="LinkedIn" width="46px" src="https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" />][linkedin]
+[<img align="left" alt="Gmail" width="46px" src="https://camo.githubusercontent.com/3519e704bfa3608c44bb981d63331e5163bd0a3bf0ab5fbfbda3a51ada1586a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f676d61696c2e706e67" />][gmail]
+[<img align="left" alt="Instagram" width="46px" src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" />][instagram]
+[<img align="left" alt="Upwork" width="42px" src="https://avatars.githubusercontent.com/u/11737042?s=200&v=4" />][upwork]
+
+<!-- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram] -->
 <br />
 <br />
 
 
 ## Languages, Libraries and Frameworks used :
-<img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="Flask" width="60px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" />
-<img align="left" alt="tf2" width="30px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
-<img align="left" alt="keras" width="70px" src="https://camo.githubusercontent.com/906e661107a3bc03104ca5d88336d1f4b0e80fdcac65efaf7904041d371c747f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67"/>
+<img align="left" alt="Python3" width="50px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" />
+<img align="left" alt="Docker" width="50px" src="https://avatars.githubusercontent.com/u/11618900?v=4" />
+<img align="left" alt="Kubernetes" width="50px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo_with_border.svg" />
+<img align="left" alt="Flask" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.15.0/icons/flask.svg" />
+<img align="left" alt="TF2" width="40px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
+<img align="left" alt="Keras" width="40px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg"/>
 <img align="left" alt="Detectron2" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM2RwKXC2YkEVLDshDBGhnhuzmlg3EkhOwg2dc2I3ScLJJdV2fzrJiZ4XqKcTeiSNngYY&usqp=CAU" />
 <img align="left" alt="YOLO" width="50px" src="https://i.pinimg.com/originals/c8/4c/d6/c84cd6231804a0759dce57bce4bef01a.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
@@ -56,3 +64,5 @@ Here are some ideas to get you started:
 
 [linkedin]: https://linkedin.com/in/abhishek-maity-a3923716a
 [gmail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=abhishek.maity97@gmail.com.com&su=SUBJECT&body=BODY&tf=1
+[instagram]: https://www.instagram.com/abhishek__maity
+[upwork]: https://www.upwork.com/freelancers/~012680dffc29d73afb
