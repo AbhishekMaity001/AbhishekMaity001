@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-flat-illustration-of-a-man-working-on-the-computer-png-image_3562999.jpg" width="210">
 
-- 🔭 I’m currently working as a **Data Science Programmer** in Industrial IOT space ( mainly Oil & Gas Industries )  
-- 💻 Currently I am also Learning diffrent ways/techniques to deal with **Time Series** Data on real world Problems/Use Cases(Anomaly Detection, Predictive Maintenance etc.).
+- 🔭 I’m currently working as a **Senior Data Scientist** in Industrial IOT space ( mainly Oil & Gas Industries )  
+- 💻 Currently I am also Learning diffrent ways/techniques to deal with **Time Series** Unsupervised Data on real world Problems/Use Cases(Anomaly Detection, Predictive Maintenance etc.).
 - 🤝🏻 I'm open for collaborations on any projects in **Data Science** (**Machine Learning** | **Computer Vision** | **Natural Language Processing** | **OCR** | **Data Analysis**).
 - Please click here to checkout more of my amazing Project use-cases solved for different Clients ✅ [Upwork Profile](https://www.upwork.com/freelancers/~012680dffc29d73afb)
 - 🎯 Goal (2022): Get some official Certifications related to Tensorflow & AWS Cloud
