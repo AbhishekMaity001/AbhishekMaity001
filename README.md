@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-flat-illustration-of-a-man-working-on-the-computer-png-image_3562999.jpg" width="210">
 
-- 🔭 I’m currently working as a **Senior Data Scientist** in Industrial IOT space ( mainly Oil & Gas Industries )  
-- 💻 Currently I am also Learning diffrent ways/techniques to deal with **Time Series** Unsupervised Data on real world Problems/Use Cases(Anomaly Detection, Predictive Maintenance etc.).
+- 🔭 I’m currently working as a **Lead Data Scientist** in Industrial IOT space ( mainly Oil & Gas Industries )  
+- 💻 Currently I am also Learning different ways/techniques to deal with **Time Series** Unsupervised Data on real world Problems/Use Cases(Anomaly Detection, Predictive Maintenance etc.).
 - 🤝🏻 I'm open for collaborations on any projects in **Data Science** (**Machine Learning** | **Computer Vision** | **Natural Language Processing** | **OCR** | **Data Analysis**).
-- Please click here to checkout more of my amazing Project use-cases solved for different Clients ✅ [Upwork Profile](https://www.upwork.com/freelancers/~012680dffc29d73afb)
+- Please click here to check-out more of my amazing Project use-cases solved for different Clients ✅ [Upwork Profile](https://www.upwork.com/freelancers/~012680dffc29d73afb)
 - 🎯 Goal (2024): Get some Certifications related to Gen AI
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I know it's crazy, but i Love to eat Chicken 😉
