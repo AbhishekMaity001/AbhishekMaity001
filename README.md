@@ -8,16 +8,18 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-flat-illustration-of-a-man-working-on-the-computer-png-image_3562999.jpg" width="210">
 
-- 🔭 I’m currently working as a **Lead Data Scientist** in Industrial IOT space ( mainly Oil & Gas Industries )  
-- 💻 Currently I am also Learning different ways/techniques to deal with **Time Series** Unsupervised Data on real world Problems/Use Cases(Anomaly Detection, Predictive Maintenance etc.).
+- 🔭 I’m currently working as a **Lead Data Scientist** in Industrial IOT space for Accenture ( mainly Oil & Gas Industries )  
+- 💻 Currently, I am also Learning different ways/techniques to deal with **Time Series** Unsupervised Data on real-world Problems/Use Cases(Anomaly Detection, Predictive Maintenance, etc.)
+      Implementing LLMs in real-world projects, working with Cognite Systems to integrate different Workflows and functions with GenAI in the Cognite platform.
+      Visiting the client site, interacting with clients directly to get the actual use case requirements
 - 🤝🏻 I'm open for collaborations on any projects in **Data Science** (**Machine Learning** | **Computer Vision** | **Natural Language Processing** | **OCR** | **Data Analysis**).
-- Please click here to check-out more of my amazing Project use-cases solved for different Clients ✅ [Upwork Profile](https://www.upwork.com/freelancers/~012680dffc29d73afb)
-- 🎯 Goal (2024): Get some Certifications related to Gen AI
+- Please click here to check out more of my amazing Project use-cases solved for different Clients ✅ [Upwork Profile](https://www.upwork.com/freelancers/~012680dffc29d73afb)
+- 🎯 Goal (2025): Get some Certifications related to Gen AI.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I know it's crazy, but i Love to eat Chicken 😉
-- 📌 Please Scroll down to view some of my **Pinned Project Repositories**  👇
+- ⚡ Fun fact: I know it's crazy, but I love to eat Chicken 😉
+- 📌 Please scroll down to view some of my **Pinned Project Repositories**  👇
 
-## Click to Connect me on :
+## Click to connect with me on :
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" />][linkedin]
 [<img align="left" alt="Gmail" width="40px" src="https://camo.githubusercontent.com/3519e704bfa3608c44bb981d63331e5163bd0a3bf0ab5fbfbda3a51ada1586a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f676d61696c2e706e67" />][gmail]
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
 <br />
 
 
-## Languages, Libraries and Frameworks hands on :
+## Languages, Libraries, and Frameworks hands-on:
 <img align="left" alt="Python3" width="50px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" />
 <img align="left" alt="Pandas" width="35px" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" />
 <img align="left" alt="TF2" width="35px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
